@@ -64,4 +64,4 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/mayur-bhaliya-37722624a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:mayurbhaliya32@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+</p> 
